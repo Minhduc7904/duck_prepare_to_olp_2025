@@ -195,7 +195,23 @@ Trong 1 giờ cuối, mình đã **sai lầm** khi:
 
 <div style="background: #d1ecf1; padding: 15px; border-left: 4px solid #0c5460; margin: 10px 0;">
 
+### 📚 Nguồn học chính:
+> **Tất cả kiến thức mình học đều có trên:** [wiki.vnoi.info](https://wiki.vnoi.info/)
+
+**Chiến lược học của mình:**
+- 📖 Học theo **VNOI Wiki** - nguồn tài liệu chất lượng, đầy đủ
+- ⭐ Chỉ tập trung vào **bài tập độ khó 2 sao** (★★)
+- 🎯 Không cần học quá sâu, tập trung vào nền tảng vững chắc
+- 💡 Hiểu rõ concept > Học nhiều thuật toán phức tạp
+
+**Lý do chọn bài 2 sao:**
+- ✅ Đủ nền tảng cho Olympic Chuyên Tin
+- ✅ Không quá khó, dễ nắm bắt
+- ✅ Cover được hầu hết các subtask dễ trong đề thi
+- ✅ Tiết kiệm thời gian, hiệu quả cao
+
 ### 🎯 Trước khi thi:
+- ✅ Học theo **VNOI Wiki** (chỉ cần bài 2 sao)
 - ✅ Ôn kỹ các thuật toán cơ bản
 - ✅ Luyện code thường xuyên trên VNOI
 - ✅ Đọc và phân tích đề nhiều
