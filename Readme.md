@@ -22,9 +22,86 @@ Repo này ghi lại toàn bộ **hành trình chuẩn bị và thi Olympic Sinh 
 
 ### 🎯 Thành tích
 
-| Cuộc thi | Địa điểm | Kết quả |
-|----------|----------|---------|
-| **OLP Chuyên Tin 2025** | HUTECH - TP.HCM (Thủ Đức) | 🥉 **Giải Ba** |
+| Cuộc thi | Địa điểm | Kết quả | Điểm số | Xếp hạng |
+|----------|----------|---------|---------|----------|
+| **OLP Chuyên Tin 2025** | HUTECH - TP.HCM (Thủ Đức) | 🥉 **Giải Ba** (Cả 3 thành viên HUCE) | **101/400** | **#71** |
+
+> 🔗 **Xem bảng xếp hạng chính thức:** [icpc.vnoi.info/contest/olp_ct25/ranking](https://icpc.vnoi.info/contest/olp_ct25/ranking/?tags=)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Travel" width="35" height="35" /> Trải nghiệm 1 tuần tại TP. Hồ Chí Minh
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white;">
+
+Đây là một trong những **trải nghiệm đáng nhớ nhất** trong thời gian học tập trên giảng đường của mình! 🌟
+
+### 👥 Đồng đội
+
+Mình đã cùng tham gia kỳ thi với **2 bạn năm 3** cùng trường HUCE. Và một điều đặc biệt là **cả 3 đều đồng Giải Ba** - một thành công tập thể mà mình vô cùng tự hào! 🎉
+
+### 🌆 Khám phá Sài Gòn
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🍜 Ẩm thực phong phú
+- **Đồ địa phương:** Bánh mì, hủ tiếu, cơm tấm...
+- **Món Trung:** Dimsum, lẩu Tứ Xuyên...
+- **Món Nhật:** Sushi, ramen, takoyaki...
+
+</td>
+<td width="50%">
+
+#### 🏛️ Địa điểm tham quan
+- **Nhà thờ Đức Bà** - Kiến trúc Gothic
+- **Bảo tàng Mỹ thuật** - Nghệ thuật Việt Nam
+- **Chợ Bến Thành** - Trung tâm mua sắm
+- **Và nhiều nơi khác...**
+
+</td>
+</tr>
+</table>
+
+### 🚇 Trải nghiệm đặc biệt
+
+- **Tàu Metro:** Lần đầu trải nghiệm hệ thống metro hiện đại tại Việt Nam
+- **Con người miền Nam:** Được gặp gỡ và trò chuyện với các bạn địa phương rất thân thiện và đáng yêu
+- **Văn hóa:** Cảm nhận sự khác biệt và thú vị về văn hóa, lối sống giữa Bắc - Nam
+
+### 💭 Cảm nhận
+
+> 1 tuần tại Sài Gòn không chỉ là kỳ thi, mà còn là **hành trình khám phá**, **kết nối bạn bè** và **tạo nên những kỷ niệm khó quên**. Từ căng thẳng trong phòng thi đến những buổi tối thư giãn khám phá thành phố, tất cả đã tạo nên một trải nghiệm hoàn chỉnh và ý nghĩa trong đời sinh viên! 🎓✨
+
+### 🌟 Lời khuyến khích
+
+<div style="background: #fff4e6; padding: 15px; border-left: 5px solid #ff9800; margin: 15px 0;">
+
+**💪 Mình rất muốn khuyến khích các bạn sinh viên tham gia kỳ thi này!**
+
+**Tại sao nên tham gia?**
+
+1. **🎯 Cơ hội việc làm tốt hơn**
+   - Trong môi trường việc làm khó khăn hiện nay, **có giải Olympic là một lợi thế cực lớn**
+   - Nhà tuyển dụng đánh giá cao kỹ năng giải quyết vấn đề và tư duy thuật toán
+   - CV của bạn sẽ **nổi bật** hơn hẳn so với các ứng viên khác
+
+2. **🌍 Trải nghiệm đáng giá**
+   - Được đi du lịch, khám phá văn hóa địa phương
+   - Gặp gỡ, giao lưu với các bạn sinh viên giỏi từ khắp cả nước
+   - Tạo dựng network và mở rộng tầm nhìn
+
+3. **📈 Phát triển bản thân**
+   - Nâng cao kỹ năng lập trình và tư duy logic
+   - Học cách làm việc dưới áp lực thời gian
+   - Rèn luyện sự kiên trì và quyết tâm
+
+> 🚀 **Đừng bỏ lỡ cơ hội này!** Dù kết quả thế nào, bạn cũng sẽ có những trải nghiệm và kiến thức vô giá. Hãy thử sức và tin vào bản thân mình!
+
+</div>
 
 </div>
 
@@ -34,10 +111,10 @@ Repo này ghi lại toàn bộ **hành trình chuẩn bị và thi Olympic Sinh 
 
 Repository này bao gồm:
 
-- ✅ **Tổng hợp kiến thức** ôn tập trong 1 tháng trước khi thi
-- ✅ **Code solutions** cho các bài tập thực hành
-- ✅ **Contest files** từ HUCE organization trên VNOI
-- ✅ **Chiến thuật thi** và kinh nghiệm thực chiến
+- **Tổng hợp kiến thức** ôn tập trong 1 tháng trước khi thi
+- **Code solutions** cho các bài tập thực hành
+- **Contest files** từ HUCE organization trên VNOI
+- **Chiến thuật thi** và kinh nghiệm thực chiến
 
 > **Lưu ý:** Mình đã có nền tảng từ năm 2024, nên năm 2025 chủ yếu ôn lại và luyện tay. Một số contest cũ từ 2024 chưa được cập nhật vào repo này.
 
@@ -87,8 +164,8 @@ graph LR
 ### 💡 Độ khó từng bài
 | Bài | Độ khó | Điểm dễ lấy |
 |-----|--------|-------------|
-| Bài 1 | ⭐⭐ Dễ | ✅ Cao |
-| Bài 2 | ⭐⭐ Dễ | ✅ Cao |
+| Bài 1 | ⭐⭐ Dễ | Cao |
+| Bài 2 | ⭐⭐ Dễ | Cao |
 | Bài 3 | ⭐⭐⭐⭐ Khó | ⚠️ Thấp |
 | Bài 4 | ⭐⭐⭐⭐⭐ Rất khó | ⚠️ Thấp |
 
@@ -102,7 +179,7 @@ graph LR
 
 ## 🎯 Chiến thuật thi của mình
 
-### ✅ Chiến thuật áp dụng (Đúng)
+### Chiến thuật áp dụng (Đúng)
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -142,7 +219,7 @@ Trong 1 giờ cuối, mình đã **sai lầm** khi:
 
 | Chiến lược | Ưu tiên | Lý do |
 |------------|---------|-------|
-| ✅ **Tối ưu Bài 1, 2 trước** | 🟢 Cao | Dễ lấy điểm, effort thấp |
+| **Tối ưu Bài 1, 2 trước** | 🟢 Cao | Dễ lấy điểm, effort thấp |
 | ⚠️ **Tối ưu Bài 3, 4 sau** | 🔴 Thấp | Khó, tốn thời gian, điểm thấp |
 
 </div>
@@ -155,7 +232,7 @@ Trong 1 giờ cuối, mình đã **sai lầm** khi:
 
 - **VNOI - HUCE Organization:** [oj.vnoi.info/organization/HUCE](https://oj.vnoi.info/organization/HUCE)
   - Chứa tất cả các contest thực hành
-  - Cần tài khoản HUCE để truy cập đề bài
+  - Tạo tài khoản và yêu cầu người hướng dẫn của bạn add vào
 
 ### 🙏 Lời cảm ơn
 
@@ -224,29 +301,29 @@ Mình xin gửi lời cảm ơn sâu sắc đến:
 - 💡 Hiểu rõ concept > Học nhiều thuật toán phức tạp
 
 **Lý do chọn bài 2 sao:**
-- ✅ Đủ nền tảng cho Olympic Chuyên Tin
-- ✅ Không quá khó, dễ nắm bắt
-- ✅ Cover được hầu hết các subtask dễ trong đề thi
-- ✅ Tiết kiệm thời gian, hiệu quả cao
+- Đủ nền tảng cho Olympic Chuyên Tin
+- Không quá khó, dễ nắm bắt
+- Cover được hầu hết các subtask dễ trong đề thi
+- Tiết kiệm thời gian, hiệu quả cao
 
 ### 🎯 Trước khi thi:
-- ✅ Học theo **VNOI Wiki** (chỉ cần bài 2 sao)
-- ✅ Ôn kỹ các thuật toán cơ bản
-- ✅ Luyện code thường xuyên trên VNOI
-- ✅ Đọc và phân tích đề nhiều
-- ✅ Làm quen với format thi (4 bài, 3 giờ)
+- Học theo **VNOI Wiki** (chỉ cần bài 2 sao)
+- Ôn kỹ các thuật toán cơ bản
+- Luyện code thường xuyên trên VNOI
+- Đọc và phân tích đề nhiều
+- Làm quen với format thi (4 bài, 3 giờ)
 
 ### 🏆 Trong khi thi:
-- ✅ **Đọc hết 4 bài trước** rồi mới code
-- ✅ **Ưu tiên subtask dễ** của tất cả bài
-- ✅ **Quản lý thời gian** thật tốt
-- ✅ **Giữ tâm lý** bình tĩnh, sáng suốt
-- ✅ **Tối ưu bài dễ trước** khi làm bài khó
+- **Đọc hết 4 bài trước** rồi mới code
+- **Ưu tiên subtask dễ** của tất cả bài
+- **Quản lý thời gian** thật tốt
+- **Giữ tâm lý** bình tĩnh, sáng suốt
+- **Tối ưu bài dễ trước** khi làm bài khó
 
 ### 🧠 Sau khi thi:
-- ✅ Rút kinh nghiệm từ những sai sót
-- ✅ Chia sẻ kinh nghiệm với các bạn
-- ✅ Tiếp tục phát triển kỹ năng
+- Rút kinh nghiệm từ những sai sót
+- Chia sẻ kinh nghiệm với các bạn
+- Tiếp tục phát triển kỹ năng
 
 </div>
 
