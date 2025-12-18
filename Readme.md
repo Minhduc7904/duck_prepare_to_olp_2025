@@ -103,6 +103,23 @@ Mình đã cùng tham gia kỳ thi với **2 bạn năm 3** cùng trường HUCE
    - Học cách làm việc dưới áp lực thời gian
    - Rèn luyện sự kiên trì và quyết tâm
 
+### 🎓 Thông tin về Olympic Sinh Viên
+
+> 🔗 **Website chính thức:** [olp.vn](https://www.olp.vn/)
+
+Olympic Sinh Viên có **rất nhiều khối thi hay và đáng thử**:
+- 🖥️ **Chuyên Tin** (Lập trình thuật toán)
+- 🤖 **AI** (Trí tuệ nhân tạo)
+- 🔒 **An toàn thông tin**
+- 💼 **Khối khác:** Toán, Vật lý, Hóa học, Cơ khí...
+
+**💡 Lời khuyên từ mình:**
+- Hãy chọn **1-2 khối trong thế mạnh** của bạn
+- **Quyết tâm và chuẩn bị kỹ lưỡng** - đừng đăng ký nhiều rồi không có thời gian
+- Mặc dù mình đang là sinh viên năm 4, nhưng **năm sau mình vẫn dự định tham gia:**
+  - 🏆 **Siêu cúp ICPC** (lập trình thi đấu)
+  - 🤖 **OLP AI** (trí tuệ nhân tạo)
+
 > 🚀 **Đừng bỏ lỡ cơ hội này!** Dù kết quả thế nào, bạn cũng sẽ có những trải nghiệm và kiến thức vô giá. Hãy thử sức và tin vào bản thân mình!
 
 </div>
