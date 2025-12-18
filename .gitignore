@@ -1,0 +1,31 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore competitive programming helper cache
+.cph/
+
+# Ignore other build artifacts
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Ignore test input/output files (optional)
+*.in
+*.out
+*.ans
+
+# Ignore debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
