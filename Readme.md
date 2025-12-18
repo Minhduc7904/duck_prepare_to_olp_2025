@@ -159,10 +159,29 @@ Trong 1 giờ cuối, mình đã **sai lầm** khi:
 
 ### 🙏 Lời cảm ơn
 
-Đặc biệt cảm ơn **Anh Hiệu** - cựu học sinh HUCE:
-- 📖 Viết giáo án chi tiết
-- 🎯 Tạo contest trên VNOI HUCE
-- 🧭 Hướng dẫn và định hướng ôn tập
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; border-left: 5px solid #28a745;">
+
+Mình xin gửi lời cảm ơn sâu sắc đến:
+
+#### 👨‍🏫 Thầy Đào Việt Cường
+**🥈 Giải Nhì Olympic Sinh Viên**
+- 🎓 Thầy hướng dẫn tận tâm
+- 🚗 Đồng hành cùng mình trong suốt chuyến đi thi
+- 💡 Đưa ra những lời khuyên vô cùng hữu ích
+- 💪 Động viên và tiếp thêm sức mạnh cho mình
+- 🎯 Chia sẻ kinh nghiệm thực chiến từ người đã đạt Giải Nhì
+
+#### 👨‍💻 Anh Hiệu - Cựu học sinh HUCE
+**🥉 Giải Ba Olympic Sinh Viên**
+- 📖 Viết giáo án chi tiết và dễ hiểu
+- 🎯 Tạo các contest thực hành trên VNOI HUCE
+- 🧭 Hướng dẫn và định hướng ôn tập cụ thể
+- 📚 Cung cấp nguồn tài liệu ôn tập chất lượng
+- 🔥 Truyền cảm hứng từ chính hành trình của anh
+
+> 💙 **Không có sự giúp đỡ của thầy và anh, mình không thể đạt được thành tích này!**
+
+</div>
 
 ---
 
@@ -238,7 +257,7 @@ Trong 1 giờ cuối, mình đã **sai lầm** khi:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Minhduc7904-black?style=for-the-badge&logo=github)](https://github.com/Minhduc7904)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nmduc7904@gmail.com)
 
 </div>
 
