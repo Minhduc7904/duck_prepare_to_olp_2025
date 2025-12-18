@@ -8,6 +8,10 @@
 [![OLP 2025](https://img.shields.io/badge/OLP-2025-green.svg)](https://oj.vnoi.info/contests/)
 [![Giải Ba](https://img.shields.io/badge/Giải-Ba-orange.svg)](https://github.com/Minhduc7904)
 
+---
+
+> **📝 Note:** README này được viết bằng AI nhưng đã được kiểm chứng và xác nhận bởi tác giả. Vì tác giả giỏi code hơn là viết văn nên mới nhờ AI hỗ trợ trình bày cho đẹp! 😄
+
 </div>
 
 ---
